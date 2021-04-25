@@ -5,8 +5,8 @@ AntiCheat developers in the community, ranked best to worst
 1. Elevated
 2. Toon
 3. Ghast
-4. funkemunky
-5. sim0n 
+4. sim0n 
+5. funkemunky
 6. konsolas
 8. NotLucky
 9. Islandscout
@@ -14,9 +14,9 @@ AntiCheat developers in the community, ranked best to worst
 11. Me cause im full of myself/ RE (Matrix Dev)
 12. Rhys/FlyCode/ObjectWeb/I change my name every month cause fuck you
 13. Johannes
-14. Fozzie
+14. Tecnio
 15. Vagdedes
-16. Tecnio
+16. Fozzie
 17. Nort721
 18. Foulest
 19. Herobrine99Dan
